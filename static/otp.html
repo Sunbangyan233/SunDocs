@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TOTP生成器</title>
+  <link rel="stylesheet" href="/css/otpstyle.css"> <!-- 引用外部CSS文件 -->
+</head>
+
+<body>
+  <h1>TOTP生成器</h1>
+  <input type="text" id="secretKey" placeholder="请在此输入密钥" />
+  <button id="generateOtp">生成验证码</button>
+  <button id="generateKey">不知道怎么用？生成一个密钥试试</button>
+  <div id="otpDisplay"></div>
+
+  <!-- 添加切换主题按钮 -->
+  <button id="themeToggle">切换暗色模式</button>
+<script src="/scripts/otp.js"></script>
+
+  <script>
+    // 切换主题的函数
+    function toggleTheme() {
+      const body = document.body;
+      body.classList.toggle('dark-mode');
+
+      // 更新按钮文本
+      const themeToggle = document.getElementById('themeToggle');
+      if (body.classList.contains('dark-mode')) {
+        themeToggle.textContent = '切换亮色模式';
+      } else {
+        themeToggle.textContent = '切换暗色模式';
+      }
+
+      // 保存用户偏好到本地存储
+      const isDarkMode = body.classList.contains('dark-mode');
+      localStorage.setItem('darkMode', isDarkMode);
+    }
+
+    // 页面加载时检查用户偏好
+    document.addEventListener('DOMContentLoaded', () => {
+      const isDarkMode = localStorage.getItem('darkMode') === 'true';
+      if (isDarkMode) {
+        document.body.classList.add('dark-mode');
+        document.getElementById('themeToggle').textContent = '切换亮色模式';
+      }
+    });
+
+    // 绑定切换主题按钮的点击事件
+    document.getElementById('themeToggle').addEventListener('click', toggleTheme);
+  </script>
+</body>
+
+</html>
