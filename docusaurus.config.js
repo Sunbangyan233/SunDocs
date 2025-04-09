@@ -16,7 +16,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.sunimg.top',
+  url: 'https://app.sunimg.top',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -155,6 +155,23 @@ const config = {
           language: ["en", "zh"],
         },
       ],
+    ],
+
+    plugins: [
+      async function myPlugin() {
+        return {
+          name: 'manual-last-update',
+          configureWebpack() {
+            return {
+              resolve: {
+                alias: {
+                  '@site/src/components/ManualLastUpdate': '/src/components/ManualLastUpdate.js',
+                },
+              },
+            };
+          },
+        };
+      },
     ],
 };
 
