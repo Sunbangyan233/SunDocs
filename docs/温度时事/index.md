@@ -36,11 +36,9 @@
 
 ### 在线预览
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=0&id=13336455176&auto=1&height=430"></iframe>
+~~网易云官方外链无法在此使用，暂时关闭~~
 
-在线预览只加载最近10首，不考虑VIP/已下架歌曲
-
-你也可以前往[歌单：《温度时事》既往歌曲全收集](https://music.163.com/#/playlist?id=13336455176)收听
+前往[歌单：《温度时事》既往歌曲全收集](https://music.163.com/#/playlist?id=13336455176)收听
 
 ### 收录列表
 
