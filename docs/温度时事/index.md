@@ -54,7 +54,7 @@ import ManualLastUpdate from '@site/src/components/ManualLastUpdate';
 
 :::note 
 
-<ManualLastUpdate time="2025-04-09T16:40:18+08:00" />
+<ManualLastUpdate time="2025-04-09T18:09:11+08:00" />
 
 :::
 
@@ -197,19 +197,24 @@ import TabItem from '@theme/TabItem';
 ---
 哔哩哔哩账号上可见最早为63期，其余稿件在微信公众号上有放出，更早时期的整理请见 [第1-63期历史考究](/docs/温度时事/第1-63期历史考究.md)
 
-<script src="https://giscus.app/client.js"
-        data-repo="Sunbangyan233/SunDocs"
-        data-repo-id="R_kgDOOJBj2g"
-        data-category="Ideas"
-        data-category-id="DIC_kwDOOJBj2s4CoD9C"
-        data-mapping="url"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+---
+本页面试行开放评论区，如果你有[GitHub](https://github.com)账号，登录授权后可以在此页面发布评论，使用时请遵守相关的用户协议与行为准则(●'◡'●)
+
+import Giscus from '@giscus/react';
+
+    <Giscus
+      id="comments"
+      repo="Sunbangyan233/SunDocs"
+      repoId="R_kgDOOJBj2g"
+      category="Ideas"
+      categoryId="DIC_kwDOOJBj2s4CoD9C"
+      mapping="url"
+      term="Welcome!"
+      reactionsEnabled="1"
+      emitMetadata="0"
+      inputPosition="top"
+      theme="dark"
+      lang="zh-CN"
+      loading="lazy"
+    />
+
