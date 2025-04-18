@@ -109,7 +109,7 @@
 
                 // 拉起代理服务器下载
                 const { fileURL: proxyFileURL, authHeader: proxyAuthHeader } = currentConfig;
-                const proxyUrl = `https://ppdf.sunimg.top/prpr?file_url=${encodeURIComponent(proxyFileURL)}&auth_header=${encodeURIComponent(proxyAuthHeader)}`;
+                const proxyUrl = `http://127.0.0.1:5000/prpr?file_url=${encodeURIComponent(proxyFileURL)}&auth_header=${encodeURIComponent(proxyAuthHeader)}`;
                 window.open(proxyUrl);
 
                 // 显示解析结果
@@ -149,10 +149,11 @@
     </script>
     <div><h2>这东西怎么用？</h2></div>
     <div>将你从某个其它网站上获取到的含PDF.js的链接粘贴进去，即可解析并下载</div>
+    <div>注意：本页面需要配合本地服务才可使用，请先访问 http://127.0.0.1:5000/ 查看有没有Not Found网页返回</div>
     <div><h2>原理解释：</h2></div>
     <div>文件下载链接已经包含在URL中，唯一的难点在于带Header请求头下载。后端我们使用Python flask代理文件下载。</div>
-    <div>更多详细介绍，请访问 https://app.sunimg.top/blog/2025/04/18/PDF.js%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7</div>
-    <div>你可以从><a href=app.exe>这里</a>下载一份编译好的exe，点开就能用，如果哪天我们的服务挂了，你也可以替换前面的https:/ppdf.sunimg.top/ 为http://127.0.0.1:5000/ 继续使用</div>
-    <div>如果你已经完成了服务本地部署，请点击<a href=DownPDF-local.html>这里</a>使用本地版本，由你自己的设备拉取PDF文件。</div>
+    <div>更多详细介绍，请访问 https://app.sunimg.top/blog/2025/04/18/PDF.js%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7 </div>
+    <div>你可以从><a href=app.exe>这里</a>下载一份编译好的exe，点开就能用，如果哪天我们的服务挂了，你也可以替换前面的https://ppdf.sunimg.top/ 为http://127.0.0.1:5000/ 继续使用</div>
+    <div>如果你暂时没有Windows设备，或者不想下载exe构建环境，请点击<a href=DownPDF.html>这里</a>使用在线版本，由服务器拉取PDF文件。</div>
 </body>
 </html>    
