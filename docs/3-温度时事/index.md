@@ -20,13 +20,10 @@
 
 我们也以此为切入点，对歌曲的风格、类型等展开研究，希望能帮到大家。
 
-### 为什么有些期次没有收录？
+### 为什么有些期次没有歌曲？
 
-这主要是因为，早期的《温度时事》没有形成固定流程前，有一部分展示诗词节气/纪录片等其他片段，作为背景音乐的这些只整理不收录。
-
-还有一个可能是，歌曲在网易云找不到合适的翻唱。这种情况下，我们需要单独前往其他音乐平台下载并补档，费时费力不说，效率也很低下。
-
-所以，有些存在问题的就暂时就不会上，但会标注不收录的原因。
+这主要是因为，早期的《温度时事》没有形成固定流程前，天籁一曲是非常驻栏目中的特色栏目，具体请看最早期的[宣传片(搬运)](https://www.bilibili.com/video/BV13x5szCE59/)。
+还有就是，BGM这类由于难以采集数据，也不统计。
 
 ### 如何快速找到想要的内容？
 
@@ -44,7 +41,7 @@
 
 ~~网易云官方外链无法在此使用，暂时关闭~~
 
-前往[歌单：《温度时事》既往歌曲全收集](https://music.163.com/#/playlist?id=13336455176)收听
+前往[【非官方】歌单：《温度时事》既往歌曲全收集](https://music.163.com/#/playlist?id=13336455176)收听
 
 ### 收录列表
 
@@ -54,7 +51,7 @@ import ManualLastUpdate from '@site/src/components/ManualLastUpdate';
 
 :::note 
 
-<ManualLastUpdate time="2025-04-09T18:09:11+08:00" />
+<ManualLastUpdate time="2025-04-19T19:07:11+08:00" />
 
 :::
 
@@ -70,9 +67,12 @@ import TabItem from '@theme/TabItem';
 <!-- 表格务必不要忘记贴import，否则mdx必报错 -->
 
 <Tabs>
-  <TabItem value="最新💡151-168期" label="最新💡151-168期" default>
+  <TabItem value="最新💡151期+" label="最新💡151期+" default>
 |期次|收录歌曲|备注|
 |-------|-------|----|
+|第175期|[Dreamers](https://music.163.com/#/song?id=1999817550)|2022年卡塔尔世界杯主题曲
+|第174期|[伟大的渺小](https://music.163.com/song?id=520532431)|译：Little Big Us
+|第173期|[请你回答](https://music.163.com/#/song?id=1952588863)|
 |第172期|[何者](https://music.163.com/song?id=2658660685)|《崩坏：星穹铁道》翁法罗斯中文主题曲
 |第171期|[冬眠](https://music.163.com/song?id=1398663411)|此歌曲第2次收录
 |第170期|[希望有羽毛和翅膀](https://music.163.com/song?id=2155423468)|译 Hope Is the Thing With Feathers
@@ -111,7 +111,7 @@ import TabItem from '@theme/TabItem';
 |第141期|[悟空](https://music.163.com/song?id=33162226)|
 |第140期|[最后的战役](https://music.163.com/song?id=412327298)|
 |第139期|[麦恩莉](https://music.163.com/song?id=25648006)|译 My only
-|第138期|[追梦赤子心](https://music.163.com/song?id=355992)|同上原因无法重复收录
+|第138期|[追梦赤子心](https://music.163.com/song?id=355992)|同上原因2次收录
 |第137期|[隐形的翅膀](https://music.163.com/song?id=327115)|电视剧《爱杀17》片尾曲
 |第136期|[回声](http://163cn.tv/DsoEo5O)|金典x韩寒音乐短片《回声》同名主题曲
 |第135期|[当你孤单你会想起谁](http://163cn.tv/DsCyKSN)|电影《一条狗的使命2》中国区推广曲
@@ -119,7 +119,7 @@ import TabItem from '@theme/TabItem';
 |第133期|[日落大道](http://163cn.tv/DsCMoLa)|
 |第132期|[如果当时](http://163cn.tv/DsC0PD2)|
 |第131期|[裹着心的光](http://163cn.tv/DsDnLF8)|
-|第130期|[Call of Silence](http://163cn.tv/DsCSRnm)|所属专辑⌈TV动画《进击的巨人 第二季》原声带⌋*
+|第130期|[Call of Silence](http://163cn.tv/DsCSRnm)|所属专辑⌈TV动画《进击的巨人 第二季》原声带⌋
 |第129期|[北京东路的日子](http://163cn.tv/DsC5uE5)|
 |第128期|[假如爱有天意](http://163cn.tv/DsC9PoB)|电影《太平轮·彼岸》推广曲
 |第127期|[普通朋友](http://163cn.tv/DsDspEb)|
@@ -143,13 +143,12 @@ import TabItem from '@theme/TabItem';
 |第109期|[逆光](http://163cn.tv/DsENKqC)|
 |第108期|[成都](http://163cn.tv/DsEHOHA)|
 |第107期|[冬眠](http://163cn.tv/DsEPVv0)|
-|第106期|不该|电视剧《幻城》主题曲:网络剧《幻城凡世》片尾曲
+|第106期|不该|电视剧《幻城》主题曲/网络剧《幻城凡世》片尾曲
 |第105期|少年|
 |第104期|[倔强](http://163cn.tv/DsErDJf)|
 |第103期|[牧马城市](http://163cn.tv/DsEOApx)|全损音质，不推荐听 / 电影《我和我的父辈》主题推广曲
 |第102期|[Five hundred miles](http://163cn.tv/DsEGxwu)|
 |第101期|暗号
-*由用户评论智能补充
   </TabItem>
   <TabItem value="63-100期" label="63-100期">
 |期次|收录歌曲|备注|
