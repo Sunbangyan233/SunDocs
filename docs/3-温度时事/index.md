@@ -51,7 +51,7 @@ import ManualLastUpdate from '@site/src/components/ManualLastUpdate';
 
 :::note 
 
-<ManualLastUpdate time="2025-04-19T19:07:11+08:00" />
+<ManualLastUpdate time="2025-05-06T19:07:11+08:00" />
 
 :::
 
@@ -70,6 +70,8 @@ import TabItem from '@theme/TabItem';
   <TabItem value="最新💡151期+" label="最新💡151期+" default>
 |期次|收录歌曲|备注|
 |-------|-------|----|
+|第177期|[大石碎胸口](https://music.163.com/song?id=386830)|
+|第176期|[才二十三](https://music.163.com/song?id=2619125556)|
 |第175期|[Dreamers](https://music.163.com/#/song?id=1999817550)|2022年卡塔尔世界杯主题曲
 |第174期|[伟大的渺小](https://music.163.com/song?id=520532431)|译：Little Big Us
 |第173期|[请你回答](https://music.163.com/#/song?id=1952588863)|
