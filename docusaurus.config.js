@@ -87,7 +87,7 @@ const config = {
             type: 'doc',
             docId: 'index',
             position: 'left',
-            label: '下载 App',
+            label: '不知道在写啥的Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
