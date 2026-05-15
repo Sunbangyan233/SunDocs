@@ -11,8 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SunDocs',
-  tagline: 'Download something you want.',
+  title: 'aio-SunDocs',
+  tagline: 'All in one for documents',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -87,7 +87,7 @@ const config = {
             type: 'doc',
             docId: 'index',
             position: 'left',
-            label: '不知道在写啥的Docs',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -106,6 +106,10 @@ const config = {
               {
                 label: 'App下载',
                 to: '/docs/index',
+              },
+              {
+                label: 'blbl数字生命',
+                to: '/docs/numbili',
               },
             ],
           },

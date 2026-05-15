@@ -77,7 +77,7 @@ export default function ManualLastUpdate({ time }) {
         {timeDiff.minutes > 0 && ` ${timeDiff.minutes}分`}
         {` ${timeDiff.seconds}秒`}。
         <br />
-        如超过1周没更新，您可以前往 p.sunimg.top 提醒一下
+        如超过2周没更新，您可以通过联系方式提醒一下
       </small>
     </div>
   );

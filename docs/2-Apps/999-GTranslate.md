@@ -1,4 +1,4 @@
-# Google 翻译
+# 【已废弃】Google 翻译
 
 :::warning 此页面已废弃
 
@@ -22,7 +22,7 @@
 
 ## 下载
 
-Android/Harmony OS:
+Android:
 
 APK: 从 [蓝奏云](https://wwsk.lanzouy.com/i4FvR0k01zna) 下载
 

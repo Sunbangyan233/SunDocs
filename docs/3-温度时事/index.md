@@ -1,5 +1,3 @@
-
-
 # 关于《温度时事》的一点历史研究
 
 ## 愉快的QA环节
@@ -33,15 +31,8 @@
 
 扔到备注里，包括未标明的原作者、英文译名、出处、笔者评价统一归于备注，例如 
 - [夜航星](https://music.163.com/song?id=1431292823) 备注为 ⌈译 Night Voyager/动画片《我的三体之章北海传》尾曲⌋ 
-- [就是哪吒](https://music.163.com/song?id=2673642585) 备注为 ⌈唐汉霄/未找到官方原唱，但音源一致⌋
 
 ## 总概况
-
-### 在线预览
-
-~~网易云官方外链无法在此使用，暂时关闭~~
-
-前往[【非官方】歌单：《温度时事》既往歌曲全收集](https://music.163.com/#/playlist?id=13336455176)收听
 
 ### 收录列表
 
@@ -51,7 +42,7 @@ import ManualLastUpdate from '@site/src/components/ManualLastUpdate';
 
 :::note 
 
-<ManualLastUpdate time="2025-05-06T19:07:11+08:00" />
+<ManualLastUpdate time="2026-05-15T10:06:00+08:00" />
 
 :::
 
@@ -67,9 +58,69 @@ import TabItem from '@theme/TabItem';
 <!-- 表格务必不要忘记贴import，否则mdx必报错 -->
 
 <Tabs>
-  <TabItem value="最新💡151期+" label="最新💡151期+" default>
+  <TabItem value="201-230期" label="最新💡201-230期" default>
 |期次|收录歌曲|备注|
 |-------|-------|----|
+|第230期|[好不容易](https://music.163.com/#/song?id=81997)|[【06:13】](https://www.bilibili.com/video/BV1bNRXBwETn/?t=373)
+|第229期|[春天里](https://music.163.com/#/song?id=155885)|[【07:11】](https://www.bilibili.com/video/BV1EC9oBZEXv/?t=431)
+|第228期|[远航星的告白](https://music.163.com/#/song?id=3346496288)|[【05:26】](https://www.bilibili.com/video/BV1XDojBrEPo/?t=326)
+|第227期|青火|
+|春日特辑|[小半](https://music.163.com/#/song?id=421423806)|由于春日特辑、开学特辑和2025跨年篇，实际上这里是33首
+|第226期|[小孩与我](https://music.163.com/#/song?id=3327897304)|
+|第225期|[有人赴约](https://music.163.com/#/song?id=1837787932)|《剑网3缘起》预约活动宣传曲[【05:06】](https://www.bilibili.com/video/BV1QXXZB2EHy/?t=306)
+|第224期|[Opalite](https://music.163.com/#/song?id=2744403189)|
+|第223期|[山海](https://music.163.com/#/song?id=411314659)|
+|第222期|[剑问长生 What Use Is Longevity](https://music.163.com/#/song?id=3341464779)|[【05:23】](https://www.bilibili.com/video/BV184cBzGEr6/?t=323)
+|第221期|[是我，也是我们](https://music.163.com/song?id=3320402025)|
+|第220期|[向阳而生](https://music.163.com/song?id=2006484446)|
+|开学特辑|[春风吹](https://music.163.com/song?id=28029097)|
+|第219期|[难忘今宵](https://music.163.com/song?id=1951315202)|
+|第218期|恭喜发财|
+|第217期|[浮光](https://music.163.com/#/song?id=2112196350)|
+|第216期|[一程山路](https://music.163.com/#/song?id=1417849873)|
+|第215期|[缸](https://music.163.com/#/song?id=2046562196)|
+|第214期|[Love wins all](https://music.163.com/#/song?id=2120465975)|译：爱胜过一切
+|第213期|[昔涟](https://music.163.com/#/song?id=3316968660)|《崩坏：星穹铁道》昔涟动画短片中文单曲
+|第212期|[New Boy](https://music.163.com/#/song?id=1857630559)|
+|2025跨年篇|[使一颗心免于哀伤](https://music.163.com/#/song?id=2155422573)|译：If I Can Stop One Heart From Breaking
+|第211期|未竟|《黑神话·悟空》结局主题曲/第2次收录
+|第210期|[The Fate of Ophelia](https://music.163.com/song?id=2744403174)|
+|第209期|[盗墓笔记·十年人间](https://music.163.com/song?id=1297802566)|八一七稻米节主题推广曲
+|第208期|[太聪明](https://music.163.com/song?id=209397)|
+|第207期|[白鸟](https://music.163.com/song?id=2745413582)|
+|第206期|[不重逢](https://music.163.com/song?id=2662183062)|
+|第205期|[真心英雄](https://music.163.com/song?id=2032212560)|电影《龙马精神》推广曲
+|第204期|[志铭](https://music.163.com/#/song?id=2005708456)|
+|第203期|稻香|
+|第202期|[花开忘忧](https://music.163.com/#/song?id=1981237932)|
+|第201期|[山海](https://music.163.com/#/song?id=411314659)|
+  </TabItem>
+  <TabItem value="151-200期" label="151-200期" default>
+|期次|收录歌曲|备注|
+|-------|-------|----|
+|第200期|[当你](https://music.163.com/#/song?id=108251)|译：When you
+|第199期|[飞-致我们的星辰大海](https://music.163.com/#/song?id=447925544)|动画《那年那兔那些事儿》第三季片尾曲
+|第198期|[春日影](https://music.163.com/#/song?id=2149887904)|TV动画「BanG Dream! It's MyGO!!!!!」#3 插曲
+|第197期|霍元甲|
+|第196期|瞄准强敌练|经核实，更正名称为《瞄准强敌练》，参考[央视网](https://tv.cctv.com/2024/09/27/VIDEXz54z9eOurxQ6CLUj2L4240927.shtml)
+|第195期|[拂晓 Proi Proi](https://music.163.com/#/song?id=2709812973)|
+|第194期|[感谢你曾来过](https://music.163.com/#/song?id=460578140)|
+|第193期|[海阔天空](https://music.163.com/#/song?id=1357375695)|
+|第192期|[弹棉花](https://music.163.com/#/song?id=27896693)|电影《巧奔妙逃》插曲
+|第191期|未竟|《黑神话·悟空》结局主题曲
+|第190期|[辞九门回忆](https://music.163.com/#/song?id=557640761)|
+|第189期|[雑踏、僕らの街](https://music.163.com/#/song?id=2142857204)|译：熙熙攘攘、我们的城市
+|第188期|[光辉岁月](https://music.163.com/#/song?id=346576)|译：Glorious Years
+|第187期|[遇见](https://music.163.com/#/song?id=454828887)|电影《向左走向右走》主题曲
+|第186期|[给从前的自己](https://music.163.com/#/song?id=1951952096)|
+|第185期|[凤凰花开的路口](https://music.163.com/#/song?id=109864)|
+|第184期|[特别的人](https://music.163.com/#/song?id=28403111)|译：Special Person
+|第183期|[起风了](https://music.163.com/#/song?id=1330348068)|
+|第182期|[Counting Stars](https://mhttps://music.163.com/#/song?id=26060065)|
+|第181期|[今年勇](https://music.163.com/#/song?id=448144319)|
+|第180期|[追梦赤子心](https://music.163.com/#/song?id=355992)|2013《快乐男声》主题曲 此单曲第2次收录
+|第179期|晴天|
+|第178期|[心墙](https://music.163.com/#/song?id=233866)|
 |第177期|[大石碎胸口](https://music.163.com/song?id=386830)|
 |第176期|[才二十三](https://music.163.com/song?id=2619125556)|
 |第175期|[Dreamers](https://music.163.com/#/song?id=1999817550)|2022年卡塔尔世界杯主题曲
@@ -82,7 +133,7 @@ import TabItem from '@theme/TabItem';
 |第168期|召唤|
 |第167期|[夜航星](https://music.163.com/song?id=1431292823)|译 Night Voyager/动画片《我的三体之章北海传》尾曲
 |第166期|[我们的明天](https://music.163.com/song?id=29771231)|电影《重返20岁》主题曲
-|第165期|[就是哪吒](https://music.163.com/song?id=2673642585)|唐汉霄/未找到官方原唱，但音源一致
+|第165期|就是哪吒|
 |第164期|[找自己](https://music.163.com/song?id=150617)|
 |第163期|[总有美好在路上](https://music.163.com/song?id=2660150669)|人民日报新媒体跨年主题歌曲
 |第162期|[不眠之夜](https://music.163.com/song?id=2122308127)|《崩坏：星穹铁道》匹诺康尼中文主题曲
@@ -113,7 +164,7 @@ import TabItem from '@theme/TabItem';
 |第141期|[悟空](https://music.163.com/song?id=33162226)|
 |第140期|[最后的战役](https://music.163.com/song?id=412327298)|
 |第139期|[麦恩莉](https://music.163.com/song?id=25648006)|译 My only
-|第138期|[追梦赤子心](https://music.163.com/song?id=355992)|同上原因2次收录
+|第138期|[追梦赤子心](https://music.163.com/song?id=355992)|2013《快乐男声》主题曲
 |第137期|[隐形的翅膀](https://music.163.com/song?id=327115)|电视剧《爱杀17》片尾曲
 |第136期|[回声](http://163cn.tv/DsoEo5O)|金典x韩寒音乐短片《回声》同名主题曲
 |第135期|[当你孤单你会想起谁](http://163cn.tv/DsCyKSN)|电影《一条狗的使命2》中国区推广曲
@@ -176,12 +227,12 @@ import TabItem from '@theme/TabItem';
 |第82期|[篇章](http://163cn.tv/DsIfSag)|
 |第81期|她的睫毛|
 |第80期|爷爷泡的茶|
-|第79期|[如烟](https://music.163.com/song?id=22198023&uct2=U2FsdGVkX19TjtXautbCwrhEzNP4RcwuaZBVoOmdn4M=)|
-|第78期|[芒种](https://music.163.com/song?id=1369798757&uct2=U2FsdGVkX1/7L6eJYeM8qBeSfxms7CFOdGiHmAuIYXc=)
-|第77期|[一路向北](https://music.163.com/song?id=440796885&uct2=U2FsdGVkX18FTmUCTFhG/7GK3KlMZRBCeODxJ3nKqjo=)
+|第79期|[如烟](https://music.163.com/song?id=22198023)|
+|第78期|[芒种](https://music.163.com/song?id=1369798757)
+|第77期|[一路向北](https://music.163.com/song?id=440796885)
 |第76期|[世界はまわると言うけれど](https://music.163.com/song?id=733614)|译 虽说世界是旋转的 / TV动画《名侦探柯南》ED28
-|第75期|[剩下的盛夏](https://music.163.com/song?id=34228130&uct2=U2FsdGVkX18l8iTaRqAlDnfN1hxgY7XSGzi/T3VXCF8=)
-|第74期|[平凡之路](https://music.163.com/song?id=28815250&uct2=U2FsdGVkX1/tl7qACQdpp2NZbuPc+F4KMbUN8+8ysU8=)|电影《后会无期》主题曲
+|第75期|[剩下的盛夏](https://music.163.com/song?id=34228130)
+|第74期|[平凡之路](https://music.163.com/song?id=28815250)|电影《后会无期》主题曲
 |第73期|[盛夏的果实](https://music.163.com/song?id=277382)
 |第72期|[眼泪成诗](https://music.163.com/song?id=287173)
 |第71期|[这世界那么多人](https://music.163.com/song?id=1842025914)|电影《我要我们在一起》主题曲
