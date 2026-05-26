@@ -83,4 +83,27 @@
 
 并且可能触发实名核验（需扫脸）等风险提示，请自行测试
 
+文档编写者 **不** 对使用脚本造成的 **任何** 直接或间接后果 负责
+
 :::
+
+下载链接：
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<!-- 表格务必不要忘记贴import，否则mdx必报错 -->
+
+<Tabs>
+  <TabItem value="android" label="安卓设备" default>
+
+https://cdn.sunbangyan.cn/apps/com.script.bbnc_1.0.6.apk （请不要复制链接到其他下载器，请直接在本页面点击此链接）
+
+https://picapk.sunbangyan.cn/com.script.bbnc_1.0.6.apk （备用但更慢）
+  </TabItem>
+  <TabItem value="iOS" label="苹果设备">
+
+  https://www.icloud.com/shortcuts/70bda220538f4c3c8ee92f80684fc4ab （请先安装“快捷指令”，并在Safari浏览器点击左侧链接）
+
+    </TabItem>
+</Tabs>
