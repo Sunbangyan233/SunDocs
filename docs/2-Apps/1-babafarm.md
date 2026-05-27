@@ -30,7 +30,7 @@
 
 ### 淘宝秒杀6W
 
-[秒杀6W（这个绿色的字可以点）](tbopen://pages-fast.m.taobao.com/wow/z/app/ltao-fe/tjb-ssr/home?x-ssr=true&pha_manifest=default&spma=farm&spmb=xsmszywlq&sceneId=7506&deliveryId=68206&itemIds=675098470247)
+[秒杀6W（这个绿色的字可以点）](taobao://pages-fast.m.taobao.com/wow/z/app/ltao-fe/tjb-ssr/home?x-ssr=true&pha_manifest=default&spma=farm&spmb=xsmszywlq&sceneId=7506&deliveryId=68206&itemIds=675098470247)
 
 二维码在页面最底下#二维码集合 
 
@@ -67,7 +67,7 @@
 
 <summary>二维码集合，适合其他设备对扫</summary>
 
-![](https://i.072333.xyz/file/AgACAgEAAyEGAASMaMWHAAEBSiVqFaADfQr-XOz7enjTYiippCHaoAACAQxrG0-jqUQLtC5bpRmBdwEAAwIAA20AAzsE.png)
+![](https://i.072333.xyz/file/AgACAgEAAyEGAASMaMWHAAEBSj5qFuhiSsa2EVrlgcusqq9je3TIMwACxQtrG0-juUQafh6AyPiecwEAAwIAA3gAAzsE.png)
 ![](https://i.072333.xyz/file/AgACAgEAAyEGAASMaMWHAAEBSidqFabmm6wBZg_jmmw3P6ykE67AcQACBgxrG0-jqUQh2pa1Al-zAAEBAAMCAAN4AAM7BA.png)
 
 秒杀6w/搜索N合1
