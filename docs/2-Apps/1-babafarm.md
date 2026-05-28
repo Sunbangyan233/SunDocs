@@ -26,6 +26,25 @@
 5. 重复3 4步骤
 6. 将手机调整回正常时间
 
+### 秒杀砸蛋过肥料
+
+实测黑号也可砸（没任务），也可出0.59商品，按需
+
+操作如下：
+1. 淘宝秒杀>1分领商品
+2. 砸蛋出的商，原价0.59的商品加购物车
+3. 点击[秒杀6W](taobao://pages-fast.m.taobao.com/wow/z/app/ltao-fe/tjb-ssr/home?x-ssr=true&pha_manifest=default&spma=farm&spmb=xsmszywlq&sceneId=7506&deliveryId=68206&itemIds=675098470247)跳转淘宝打开会场
+4. 检查列表前几个商品，是否为加车商品（价格对就行）
+5. 提交订单，付款
+
+<details>
+
+<summary>视频演示</summary>
+
+<iframe id="dogePlayerFrame" src="https://player.dogecloud.com/web/player.html?vcode=e88c6b4e0b21add8&userId=3472&autoPlay=false&inFrame=true" allowfullscreen="true" msallowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" allowtransparency="true" scrolling="no" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" referrerPolicy="unsafe-url"></iframe>
+
+</details>
+
 ## 下单肥料会场
 
 ### 淘宝秒杀6W
@@ -71,7 +90,6 @@
 ![](https://i.072333.xyz/file/AgACAgEAAyEGAASMaMWHAAEBSidqFabmm6wBZg_jmmw3P6ykE67AcQACBgxrG0-jqUQh2pa1Al-zAAEBAAMCAAN4AAM7BA.png)
 
 秒杀6w/搜索N合1
-
 
 </details>
 
